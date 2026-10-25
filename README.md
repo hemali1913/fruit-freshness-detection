@@ -254,9 +254,9 @@ terms shown on the source page.
 
 **Project:** Fruit Freshness Detection Using Deep Learning\
 **Student:** Hemali Kasad\
-**Project teammate(s):** Add teammate details if required by your
-college.\
-**Faculty guide:** Add the guide's name as required by your college.
+
+**Faculty guide:** JAIVIK PANCHAL IBM TRAINER 
+
 
 ------------------------------------------------------------------------
 
